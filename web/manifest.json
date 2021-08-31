@@ -1,0 +1,21 @@
+{
+	"name": "Johan Game",
+	"short_name": "Johan Game",
+	"description": "Un petit jeu jouable via navigateur",
+	"icons": [
+	  {
+		"sizes": "320x320",
+		"type": "image/png",
+		"src": "/icone.png"
+	  },
+	  {
+		"sizes": "80x80",
+		"type": "image/png",
+		"src": "/favicon.png"
+	  }
+	],
+	"display": "minimal-ui",
+	"background_color": "#111827",
+	"theme_color": "#111827",
+	"start_url": "/"
+  }
