@@ -1,0 +1,15 @@
+{
+  "name": "johan-game",
+  "version": "4.0.0",
+  "description": "Un jeu jouable sur navigateur",
+  "main": "index.js",
+  "author": "JohanStickman",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"verbose": false,
+	"watch": [
+		"*",
+		"template/*"
+	],
+	"ext": "js,json,css,html"
+}

@@ -1,0 +1,6 @@
+.vercel
+now.json
+package-lock.json
+yarn.lock
+node_modules
+nodemon.json
